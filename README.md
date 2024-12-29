@@ -46,4 +46,16 @@
   </p>
 </div>
 
-![snake gif](https://github.com/sieonn/sieonn/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <!-- Snake animation -->
+  <h4>🐍 GitHub Contribution Snake</h4>
+  <picture>
+    <!-- 라이트 모드에서 표시 -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sieonn/sieonn/blob/output/github-contribution-grid-snake.svg" />
+    <!-- 다크 모드에서 표시 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sieonn/sieonn/blob/output/github-contribution-grid-snake-dark.svg" />
+    <!-- 기본 이미지 -->
+    <img src="https://github.com/sieonn/sieonn/blob/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;" />
+  </picture>
+</div>
