@@ -45,3 +45,5 @@
     <img src="https://img.shields.io/badge/React-0088CC?&style=flat-square&logo=react&logoColor=white" />
   </p>
 </div>
+
+![snake gif](https://github.com/sieonn/sieonn/blob/output/github-contribution-grid-snake.svg)
