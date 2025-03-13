@@ -1,5 +1,7 @@
 <div align="center">
-  <h3>Sieon's GitHub</h3>
+  <h2>Sieon's GitHub</h2>
+
+  반갑습니다. 프론트엔드 개발자 임시언입니다.
 </div>
 
 <!-- GitHub Stats와 Most Used Languages를 가로로 배치 -->
