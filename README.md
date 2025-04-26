@@ -1,64 +1,71 @@
 
-<div align="center">
-  <h2>Frontend Developer</h2>
+# 👋 Hi, I'm Sieon Lim
+**Frontend Developer | UI/UX Enthusiast**
 
-  반갑습니다. 프론트엔드 개발자 임시언입니다.
-</div>
+프론트엔드 개발을 통해 사용자와 소통하고, 더 나은 경험을 만드는 것을 좋아합니다.  
+늘 "깔끔하고 직관적인 인터페이스"를 목표로 성장하고 있어요.
 
-<!-- GitHub Stats와 Most Used Languages를 가로로 배치 -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h4>📊 GitHub Stats</h4>
-        <img src="https://github-readme-stats.vercel.app/api?username=sieonn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-      </td>
-      <td>
-        <h4>🚀 Most Used Languages</h4>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sieonn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-      </td>
-    </tr>
-  </table>
-</div>
+
+
+
+## 🚀 About Me
+
+- ✨ React, TypeScript 기반 프로젝트를 좋아합니다.
+- 🎯 사용자 경험(UX)을 고려한 UI 설계를 지향합니다.
+- 🛠️ 새로운 기술을 배우고 적용하는 걸 즐깁니다.
+- 📚 최근에는 **프론트엔드 아키텍처**와 **최적화**에 관심이 많습니다.
+
+
 
 ---
 
-<div align="center">
-  <h4>🛠️ Tech Stack</h4>
-  <!-- 기술 로고 -->
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  </p>
-  <!-- 배지 -->
-  <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?&style=flat-square&logo=HTML5&logoColor=white" />
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?&style=flat-square&logo=TypeScript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=react&logoColor=white" />
-  </p>
-</div>
 
 
-<div align="center">
-  <!-- Snake animation -->
-  <h4>🐍 GitHub Contribution Snake</h4>
-  <picture>
-    <!-- 라이트 모드에서 표시 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sieonn/sieonn/blob/output/github-contribution-grid-snake.svg" />
-    <!-- 다크 모드에서 표시 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sieonn/sieonn/blob/output/github-contribution-grid-snake-dark.svg" />
-    <!-- 기본 이미지 -->
-    <img src="https://github.com/sieonn/sieonn/blob/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;" />
-  </picture>
-</div>
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
+
+**Tools & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=Zustand&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+</p>
+
+---
+
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sieonn&show_icons=true&theme=dracula&hide_border=true" height="150" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sieonn&layout=compact&theme=dracula&hide_border=true" height="150" />
+    </td>
+  </tr>
+</table>
+
+
+
+---
+
+
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sieonn/sieonn/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sieonn/sieonn/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/sieonn/sieonn/blob/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
+</picture>
